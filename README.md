@@ -4,9 +4,9 @@ This repo contains a working solution for pkgo api unknown6 signature issue in o
 
 This repo ONLY contains the unknown6 signature generation code. In order to make it work properly, you also need following components in our project:
 
-- xxhash
+- xxhash (https://github.com/Cyan4973/xxHash)
 - encrypt.[h,c]
-- protobuf classes
+- protobuf classes (https://github.com/AeonLucid/POGOProtos)
 
 # Credits
 
